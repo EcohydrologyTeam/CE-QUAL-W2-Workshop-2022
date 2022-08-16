@@ -1,5 +1,0 @@
--   item: CWO_11
-    Filename: cwo_11.csv
-    Columns: [TDS, Gen1, ISS1, ISS2]
-    Labels: [TDS (mg/L), Gen1 (mg/L), ISS1 (mg/L), ISS2 (mg/L)]
-    PlotType: multi
